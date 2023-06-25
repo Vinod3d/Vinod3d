@@ -5,16 +5,12 @@
   
 
 - 🌱 I’m currently learning ReactJs And NodeJs  
-  
 
 - ❓ Ask me about anything related to Frontend technologies  
-  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
