@@ -8,7 +8,6 @@
 
 - ❓ Ask me about anything related to Frontend technologies  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
 
