@@ -1,4 +1,4 @@
-### I'm Vinod Chandra, a UI Developer developer 👨‍💻 working since 2021 🚀  
+### I'm Vinod Chandra, a Frontend Developer developer 👨‍💻 working since 2021 🚀  
   
 
 - 🔭 I’m currently working at Knovos  
