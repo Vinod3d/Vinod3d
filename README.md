@@ -11,7 +11,7 @@
   
 <br/>  
 
-![Vinod3d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod3d&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Vinod3d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod3d&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&token=YOUR_GITHUB_TOKEN_HERE)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
