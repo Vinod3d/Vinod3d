@@ -13,6 +13,7 @@
 
 ![Vinod3d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod3d&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&token=YOUR_GITHUB_TOKEN_HERE)
 
+
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
 
@@ -42,3 +43,5 @@
 <a href="https://github.com/Vinod3d/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66bffdeb-5f41-4220-826c-15341f1345ff/deploy-status)](https://app.netlify.com/sites/drumkitbeep/deploys)
