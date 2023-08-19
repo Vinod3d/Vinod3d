@@ -44,4 +44,3 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66bffdeb-5f41-4220-826c-15341f1345ff/deploy-status)](https://app.netlify.com/sites/drumkitbeep/deploys)
