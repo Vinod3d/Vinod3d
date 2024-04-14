@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Knovos  
   
 
-- 🌱 I’m currently learning ReactJs And NodeJs  
+- 🌱 I’m currently learning TypeScript And NextJs  
 
 - ❓ Ask me about anything related to Frontend technologies  
 
