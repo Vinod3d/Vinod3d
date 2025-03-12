@@ -1,10 +1,10 @@
-### I'm Vinod Chandra, a Frontend Developer developer 👨‍💻 working since 2021 🚀  
+### I'm Vinod Chandra, a Frontend Developer developer 👨‍💻 working since 2022 🚀  
   
 
-- 🔭 I’m currently working at Knovos  
+- 🔭 I’m currently working at Code Fusion Infotech 
   
 
-- 🌱 I’m currently learning TypeScript And NextJs  
+- 🌱 I’m currently learning DevOps and Cloud Computing
 
 - ❓ Ask me about anything related to Frontend technologies  
 
