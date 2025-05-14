@@ -1,4 +1,4 @@
-### I'm Vinod Chandra, a Frontend Developer developer 👨‍💻 working since 2022 🚀  
+### I'm Vinod Chandra, a Frontend Developer developer 👨‍💻 working since 2023 🚀  
   
 
 - 🔭 I’m currently working at Code Fusion Infotech 
